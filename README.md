@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Henrique Vieira 👋
 
  Iniciei minhas atividades profissionais com 16 anos como jovem cidadão na Yamaha, com a função de padronizar peças. Após encerramento contratual iniciei como jovem aprendiz no restaurante Yoishii sushi bar, com atendimento ao cliente após finalizar meu contrato iniciei na empresa Frigo Service, ja efetivo, minha função era oferecer produtos de frigobar para os hóspedes nos hotéis de Guarulhos pois é uma empresa terceirizada.
- Atualmente estou servindo como Soldado na Força Área Brasileira, executando a função de Suporte de Redes e manutenção de Computadores, estou cursando o 5º semestre no curso de Sistemas da informação (Uninove) e cursando o 1º módulo no ensino técnico (Etec) de desenvolvimento de Sistemas.
+ Atualmente estou servindo como Soldado na Força Área Brasileira, executando a função de Suporte de Redes e manutenção de Computadores, estou cursando o 6º semestre no curso de Sistemas da informação (Uninove) e cursando o 2º módulo no ensino técnico (Etec) de desenvolvimento de Sistemas.
  Estou em busca de uma oportunidade de estágio na área de tecnologia da informação (desenvolvimento, front-end ou Back-end).
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-vieira-a373521b0/)
